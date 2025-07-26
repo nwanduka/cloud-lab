@@ -61,17 +61,6 @@ So I:
 - I learned how small configuration mistakes (like wrong bucket names or folder structures) can affect the entire setup
 - Most importantly, I learned by doing — breaking things, fixing them, and documenting them.
 
-## 📂 Project Files
-```
-portfolio-website/
-├── _config.yml          # Jekyll configuration
-├── index.md             # Homepage content
-├── about.md             # About page
-├── writing.md           # Writing portfolio links
-├── _site/               # Generated static files (deployed to S3)
-└── README.md           # This documentation
-```
-
 ## 🔧 What’s Next
 
 This project is still a work in progress. Here are the next steps I plan to take:
